@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428086501631",
+    "project_id": "attendance-project-fd48e",
+    "storage_bucket": "attendance-project-fd48e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428086501631:android:6495e556f082699a49acca",
+        "android_client_info": {
+          "package_name": "com.example.geolocator_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428086501631-bga6vunsjjk394u2kq14k5g0m1129h74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSmb4-1vn-MxpmIAjnoGYd2hRqAFMnwMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428086501631-bga6vunsjjk394u2kq14k5g0m1129h74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
